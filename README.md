@@ -1,16 +1,20 @@
-### Hi there 👋
+TheDevotedRadiance/README.md
+### Hi there! Welcome !👋
+I'm QurratulainQamar, a software developer with 6 months of experience in web applications. 
+Health Science graduate and software development intern, merging expertise to drive innovative healthcare solutions. Skilled in coding, health informatics, and data science. Committed to advancing patient care through the intersection of health science and technology.
 
-<!--
-**TheDevotedRadiance/TheDevotedRadiance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills 🚀
+* Languages: Python, JavaScript
+* Front-end: HTML, CSS
+* Back-end: 
+* Frameworks: Django, Bootstrap
+* Databases: MySQL, PostgreSQL
+* Tools: Git, VS Code
+Education 🎓
+* Bachelor's in Medicine Bachelor's in Science
+  
+Contact 📫
+* Email: qurratulainqamar@gmail.com
+* Linkedin: 
+* GitHub: 
