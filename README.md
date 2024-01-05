@@ -1,4 +1,4 @@
-TheDevotedRadiance/README.md
+
 ### Hi there! Welcome !👋
 I'm QurratulainQamar, a software developer with 6 months of experience in web applications. 
 Health Science graduate and software development intern, merging expertise to drive innovative healthcare solutions. Skilled in coding, health informatics, and data science. Committed to advancing patient care through the intersection of health science and technology.
